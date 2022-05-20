@@ -1,4 +1,4 @@
-print("Trinbutar impuesto")
+print("Tributar impuesto")
 print("*******************")
 print("Digite su edad: ")
 edad = int(input())

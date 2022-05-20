@@ -8,4 +8,5 @@ if letra == "a" or letra == "A" and letra == "e" or letra == "E" and letra == "i
 elif len(letra) !=1:
     print("No se puede procesar el dato")
 else:
-    print("La letra no es vocal")    
+    print("La letra no es vocal") 
+

@@ -11,7 +11,7 @@ def conversor(tipoPesos, valorDolar):
 menu = """
 Bienvenido al conversor de monedas
 
-Elige una opción
+Elige una opción.
 ***********************************
 1 - Pesos Colombianos
 2 - Pesos Argentinos

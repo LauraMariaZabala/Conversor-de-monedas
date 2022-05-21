@@ -1,3 +1,4 @@
+print("Bienvenido/a ")
 print("Digite la presion sistolica: ")
 sistolica = int(input())
 print("Digite la presion diastolica: ")
